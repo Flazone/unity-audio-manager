@@ -37,8 +37,7 @@ SFX.Play().OnFinished(() =>
 ```
 
 ## Media
-https://github.com/Flazone/unity-audio-manager/assets/12300786/575bdd32-7fc9-4fd3-b965-dbc0ab5c5da8
-
+https://github.com/Flazone/unity-audio-manager/assets/12300786/b6365664-68fe-4ae0-9e14-a2ae5ee5950a
 
 ## To Dos
 - Spatialization

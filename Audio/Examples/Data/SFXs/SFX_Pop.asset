@@ -32,4 +32,4 @@ MonoBehaviour:
   RandomizeDelay: 0
   DelayRange:
     RangeMin: 0
-    RangeMax: 0
+    RangeMax: 0.15

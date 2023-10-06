@@ -7,8 +7,10 @@ namespace FLZ.Tests
     
     public abstract class BaseMockService : IMockService
     {
-        public void OnAllServicesReady() { }
-        
+        public void OnPreAwake() { }
+
+        public void OnAfterAwake() { }
+
         public bool IsReady()
         {
             return true;

@@ -102,6 +102,13 @@ namespace FLZ.Audio
             return this;
         }
         
+        public PoolableAudioSource SetPanStereo(float panStereo)
+        {
+            _audioSource.panStereo = panStereo;
+            return this;
+        }
+
+        
         public PoolableAudioSource OnFinished(Action callback)
         {
             _endCallback = callback;

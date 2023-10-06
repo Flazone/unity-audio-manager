@@ -143,7 +143,7 @@ namespace FLZ.Audio.Editor
                 {
                     alignment = TextAnchor.MiddleCenter
                     
-                });
+                },  GUILayout.MaxHeight(25));
             GUILayout.EndHorizontal();
             
             Color oldColor = GUI.contentColor;

@@ -15,7 +15,7 @@ MonoBehaviour:
   MasterMixer: {fileID: 24100000, guid: a2e48eb1495d330428dc1f8bd2bfe3c5, type: 2}
   MusicMixer: {fileID: 24100000, guid: d15a2e668f1e9ee4bac345a6a724ee48, type: 2}
   SfxMixer: {fileID: 24100000, guid: 2f44d725cfbb5c54786da4a855d9b067, type: 2}
-  AudioSourcePoolSize: 10
+  AudioSourcePoolSize: 25
   VolumeCurve:
     serializedVersion: 2
     m_Curve:

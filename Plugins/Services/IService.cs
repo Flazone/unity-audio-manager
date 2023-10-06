@@ -2,7 +2,8 @@
 {
     public interface IService
     {
-        void OnAllServicesReady();
+        void OnPreAwake();
+        void OnAfterAwake();
         bool IsReady();
     }
 }
